@@ -1,0 +1,114 @@
+.logo {
+	height: 145px;
+	padding-left: 175px;
+	padding-top: 5px;
+	background-color: lightgrey
+}
+.logimg {
+	height: 150px;
+}
+body {
+	margin: 0;
+	text-transform: uppercase;
+	font-family: nosok;
+}
+@font-face {
+	font-family: nosok;
+	src: url(nosok.ttf);
+}
+.links {
+	margin-left: 100px;
+	margin-top: 25px;
+}
+.link {
+	margin-left: 75px;
+}
+.flex {
+	display: flex;
+}
+.main {
+	height: 900px;
+}
+.inform {
+	height: 425px;
+	margin-bottom: 25px;
+}
+.info {
+	height: 425px;
+	width: 440px;
+	margin-left: 50px;
+	text-align: center;
+}
+.inimg {
+	width: 440px;
+	height: 350px;
+	transition: 0.8s;
+}
+.inimg:hover {
+	transition: 0.8s;
+	transform: scale(1.05);
+	border-radius: 10px;
+}
+.delivery {
+	height: 350px;
+	background-color: lightgrey;
+	padding-top: 50px;
+	text-align: center;
+}
+h1 {
+	font-size: 75px;
+	color: black;
+}
+a {
+	text-decoration: none;
+	transition: 0.8s;
+}
+.comments {
+	height: 800px;
+}
+.text3{
+	color:white;
+	font-size:18px
+}
+.cimg {
+	width: 150px;
+	margin-left: 50px;
+	padding-top: 10px;
+}
+.ava {
+	border-radius: 100px;
+	height: 100px;
+}
+.comment {
+	height: 120px;
+	width: 1000px;
+	margin-top: 30px;
+	border-radius: 30px;
+	display: flex;
+	border-style: solid;
+	border-color: lightgrey;
+}
+h3 {
+	color: black;
+}
+h2 {
+	color: black;
+}
+a:hover {
+	transition: 0.8s;
+	transform: scale(1.05);
+	text-decoration: underline;
+}
+.company {
+	height: 100px;
+	background-color: lightgrey;
+	padding-top: 50px;
+	padding-left: 200px;
+}
+.rek {
+	width: 250px;
+	margin-left: 25px;
+}
+h1 {
+	margin-left: 75px;
+}
